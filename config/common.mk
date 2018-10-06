@@ -130,7 +130,7 @@ PRODUCT_PACKAGES += \
 
 # Custom Lineage packages
 PRODUCT_PACKAGES += \
-    AudioFX \
+    ViPER4AndroidFX \
     LineageSettingsProvider \
     LineageSetupWizard \
     Eleven \
